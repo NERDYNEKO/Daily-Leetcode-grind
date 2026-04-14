@@ -1,4 +1,7 @@
-<h1 align="center">🚀 LeetCode Journey</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=NERDYNEKO%20DSA%20Journey&fontSize=30&fontColor=ffffff"/>
+</p>
+<h1 align="center">🚀 Nabonita LeetCode Journey</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA-blue" />
