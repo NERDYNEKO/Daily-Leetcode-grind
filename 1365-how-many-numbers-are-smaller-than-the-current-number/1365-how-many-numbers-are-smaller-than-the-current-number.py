@@ -1,12 +1,13 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums):
         sorted_nums = sorted(nums)
-        result = []
+        count = {}
         
-        for num in nums:
-            result.append(sorted_nums.index(num))  # gives count
+        for i, num in enumerate(sorted_nums):
+            if num not in count:
+                count[num] = i
         
-        return result
+        return [count[num] for num in nums]
         
         
             
