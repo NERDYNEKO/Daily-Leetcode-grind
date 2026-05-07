@@ -115,6 +115,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0058-length-of-last-word) |
 ## Math
 |  |
 | ------- |
