@@ -72,6 +72,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0724-find-pivot-index) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
