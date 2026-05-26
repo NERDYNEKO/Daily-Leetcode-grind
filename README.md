@@ -74,6 +74,7 @@ If you like this repo, give it a ⭐
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
@@ -94,6 +95,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
@@ -111,6 +113,7 @@ If you like this repo, give it a ⭐
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
@@ -143,6 +146,7 @@ If you like this repo, give it a ⭐
 | [0008-string-to-integer-atoi](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0344-reverse-string) |
