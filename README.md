@@ -101,6 +101,7 @@ If you like this repo, give it a ⭐
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,6 +148,7 @@ If you like this repo, give it a ⭐
 | [0344-reverse-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
