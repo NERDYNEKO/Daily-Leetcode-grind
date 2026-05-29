@@ -1,14 +1,12 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
-        for i in range(len(nums)):
-            digit_sum=0
-            n=nums[i]
+        ans=[]
+        for n in nums:
+            sum_digit=0
             while n>0:
-                last_digit=n%10
-                digit_sum+=last_digit
+                digit=n%10
+                sum_digit+=digit
                 n=n//10
-                nums[i]=digit_sum
-        return min(nums)
-
-
+            ans.append(sum_digit)
+        return min(ans)
 
